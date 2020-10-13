@@ -1,0 +1,33 @@
+body {
+  display: flex;
+}
+
+.contenedor{
+  border: 1px solid ·ccc;
+  margin: 0 auto;
+  width: 60%;
+  background: #BFC9CA;
+  padding: 10px;
+}
+
+.principal{
+  background: #F4F6F7;
+  padding: 10px;
+}
+.img{
+  width:150px;
+  height:150px;
+}
+
+.header{
+  display: flex;
+}
+
+.nombre{
+  margin-left: 40px;
+  width: 100%;
+}
+.titulo {
+  border: 1px solid #010B09 ;
+  color: #F4F6F7 ;
+}
